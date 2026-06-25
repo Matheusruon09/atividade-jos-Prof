@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../minha-rede-escolar/public"
+		},
+		{
+			"path": "../../minha-rede-escolar/src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "public"
+	}
+}
